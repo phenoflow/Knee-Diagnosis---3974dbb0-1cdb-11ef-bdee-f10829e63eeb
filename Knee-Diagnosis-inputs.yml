@@ -1,0 +1,90 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/lateral-knee-diagnosis---primary.py
+inputModule3:
+  class: File
+  path: python/knee-diagnosis---primary.py
+inputModule4:
+  class: File
+  path: python/arthroscopic-knee-diagnosis---primary.py
+inputModule5:
+  class: File
+  path: python/knee-diagnosis-rupture---primary.py
+inputModule6:
+  class: File
+  path: python/knee-diagnosis-injury---primary.py
+inputModule7:
+  class: File
+  path: python/knee-diagnosis-osteoarthritis---primary.py
+inputModule8:
+  class: File
+  path: python/knee-diagnosis-meniscu---primary.py
+inputModule9:
+  class: File
+  path: python/synovial-knee-diagnosis---primary.py
+inputModule10:
+  class: File
+  path: python/prepatellar-knee-diagnosis---primary.py
+inputModule11:
+  class: File
+  path: python/knee-diagnosis-replacement---primary.py
+inputModule12:
+  class: File
+  path: python/knee-diagnosis-patellectomy---primary.py
+inputModule13:
+  class: File
+  path: python/knee-diagnosis-repair---primary.py
+inputModule14:
+  class: File
+  path: python/knee-diagnosis-structure---primary.py
+inputModule15:
+  class: File
+  path: python/knee-diagnosis-patella---primary.py
+inputModule16:
+  class: File
+  path: python/knee-diagnosis-bursitis---primary.py
+inputModule17:
+  class: File
+  path: python/knee-diagnosis-osteotomy---primary.py
+inputModule18:
+  class: File
+  path: python/knee-diagnosis-anterior---primary.py
+inputModule19:
+  class: File
+  path: python/knee-diagnosis-meniscectomy---primary.py
+inputModule20:
+  class: File
+  path: python/knee-diagnosis-sprain---primary.py
+inputModule21:
+  class: File
+  path: python/patellofemoral-knee-diagnosis---primary.py
+inputModule22:
+  class: File
+  path: python/knee-diagnosis-bursa---primary.py
+inputModule23:
+  class: File
+  path: python/right-knee-diagnosis---primary.py
+inputModule24:
+  class: File
+  path: python/knee-diagnosis-tibia---primary.py
+inputModule25:
+  class: File
+  path: python/knee-diagnosis-joint---primary.py
+inputModule26:
+  class: File
+  path: python/knee-diagnosis-chondrocalcinosis---primary.py
+inputModule27:
+  class: File
+  path: python/knee-diagnosis-strain---primary.py
+inputModule28:
+  class: File
+  path: python/knee-diagnosis-deformity---primary.py
+inputModule29:
+  class: File
+  path: python/medial-knee-diagnosis---primary.py
+inputModule30:
+  class: File
+  path: python/output-cases.py
